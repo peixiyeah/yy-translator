@@ -1,0 +1,13 @@
+.gradle/
+.build-tools/
+**/build/
+local.properties
+*.jks
+*.keystore
+*.apk
+.idea/
+*.p12
+*.dpapi
+*.cms
+output/*
+!output/zh-ko-fullscreen/
